@@ -93,14 +93,16 @@ Shows the customers who placed the highest number of orders. This helps measure 
 ### 💰 Top Customers by Spending
 Displays customers who generated the highest total revenue. This represents Customer Lifetime Value (CLV) and identifies the most valuable customers.
 
-![Top Customers by Spending](images/top_customers_by_spending.png)
+![Top Customers by Spending]
+(images/top_customers_by_spending.png)
 
 ---
 
 ### 📦 Top Products
 Shows the most frequently purchased products based on total quantity sold. This highlights product demand and popularity.
 
-![Top Products](images/top_products.png)
+![Top Products]
+(images/top_products.png)
 
 ---
 
