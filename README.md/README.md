@@ -81,6 +81,8 @@ The project includes multiple analytical SQL queries:
 
 ## 🧾 Key SQL Concepts Used
 
+---
+
 - JOIN operations
 - GROUP BY aggregations
 - Window functions (RANK)
